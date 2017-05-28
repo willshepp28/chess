@@ -1,16 +1,29 @@
 
+
+/*
+
+background-color: #E9E0D0;
+background-color: #765D35;
+
+
+
+*/
+
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  background: red;
+  background: #323232;
   display: flex;
+  justify-content: center;
+  padding: 44px;
 }
 
 #container {
   width: 80%;
-  background-color: blue;
+  background-color: #E9E0D0;
   min-height: 700px;
 
 }
